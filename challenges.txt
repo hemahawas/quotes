@@ -1,0 +1,2 @@
+1. Handling deprecated codes
+2. Separating the service locators according to each feature 
